@@ -1,9 +1,9 @@
 # Foundations of Project Management
 The knowledge base contanis a specialization overview from the course [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations/) by Google on [Coursera](https://www.coursera.org/). It is divided into following modules:
-- [Embarking on a career in project management](modules/Embarking%20on%20a%20career%20in%20project%20management.md)
-- [Becoming an effective project manager](modules/Becoming%20an%20effective%20project%20manager.md)
-- [The project management life cycle and methodologies](modules/The%20project%20management%20life%20cycle%20and%20methodologies.md)
-- [Organizational structure and culture](modules/Organizational%20structure%20and%20culture.md)
+- [Embarking on a career in project management](Embarking%20on%20a%20career%20in%20project%20management.md)
+- [Becoming an effective project manager](Becoming%20an%20effective%20project%20manager.md)
+- [The project management life cycle and methodologies](The%20project%20management%20life%20cycle%20and%20methodologies.md)
+- [Organizational structure and culture](Organizational%20structure%20and%20culture.md)
 
 This course is the first in a series of six to equip you with the skills you need to apply to introductory-level roles in project management. Project managers play a key role in leading, planning and implementing critical projects to help their organizations succeed. In this course, you’ll discover foundational project management terminology and gain a deeper understanding of  the role and responsibilities of a project manager. We’ll also introduce you to the kinds of jobs you might pursue after completing this program. Throughout the program, you’ll learn from current Google project managers, who can provide you with a multi-dimensional educational experience that will help you build your skills  for on-the-job application. 
 ![](info.png)
