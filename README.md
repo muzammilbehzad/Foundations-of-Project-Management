@@ -19,7 +19,7 @@ By the end of this course, you will be able to:
 - Define organizational structure and culture and explain how it impacts project management. 
 - Define change management and describe the role of the project manager in the process.
 
-![](modules/module1.png)
+![](module1.png)
 
 
 ## Certification Overview
