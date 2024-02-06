@@ -8,7 +8,7 @@ You will learn how the program is structured, what project management is and wha
 - The role of program managers is the responsibility for overseeing multiple projects aligned with the company's goals.
 - The importance of project management in planning, organizing, managing tasks, and controlling costs.
 
-![](pic1.png)
+![](imgs/pic1.png)
 
 
 ## Role of a Project Manager
@@ -65,9 +65,9 @@ Here are a couple of the positions you may see that are related to that approach
 ### Industry-specific management roles
 As you search for project management roles, you may see positions with titles like “engineering project manager” or “construction project manager.” Keep in mind that the skills you learn in one industry can be applied to another industry. For example, you may have experience as a software engineer but are interested in pursuing a career in project management. You will be able to apply what you’ve learned working in a technical field, as well as with the skills you have picked up in this certification course, to a project manager position in multiple industries. Having experience working on a team to achieve a task and understanding how to execute an effort on schedule and on budget are aspects of your professional experience—combined with your project management knowledge—that make it possible for you to move between industries.
 
-![](pic2.png)
-![](pic3.png)
-![](pic4.png)
+![](imgs/pic2.png)
+![](imgs/pic3.png)
+![](imgs/pic4.png)
 
 ## Good skills to have
 - **Coordination**, or getting people and teams to work together. You may see responsibilities in job descriptions such as “coordination of efforts to achieve project deliverable” or “coordinate internal resources to ensure successful project completion.” Being a project manager is essentially managing the coordination of resources to achieve your end goal. Coordination is one of the top skills a project manager should have, so searching for this term can lead you to appropriate positions. 
