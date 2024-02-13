@@ -23,7 +23,7 @@ By the end of this course, you will be able to:
 
 
 [Here](https://www.coursera.org/account/accomplishments/verify/WEL8AUCN7ABG) is my certification for this first course.
-![](imgs/course1.jpg)
+![](imgs/course1.JPG)
 
 
 ## Certification Overview
