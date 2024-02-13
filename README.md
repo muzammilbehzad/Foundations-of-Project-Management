@@ -22,6 +22,10 @@ By the end of this course, you will be able to:
 ![](imgs/module1.png)
 
 
+[Here](https://www.coursera.org/account/accomplishments/verify/WEL8AUCN7ABG) is my certification for this first course.
+![](imgs/course1.jpg)
+
+
 ## Certification Overview
 ###  Google Project Management Certification
 **Project managers** are natural problem-solvers. They set the plan and guide teammates, and manage changes, risks, and stakeholders. This [Google Project Management: Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management) includes over 140 hours of instruction and hundreds of practice-based assessments which will help you simulate real-world project management scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in program and project management.
